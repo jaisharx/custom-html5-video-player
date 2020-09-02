@@ -1,0 +1,20 @@
+{
+  "name": "custom-html5-video-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisharx/custom-html5-video-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaisharx/custom-html5-video-player/issues"
+  },
+  "homepage": "https://github.com/jaisharx/custom-html5-video-player#readme"
+}
